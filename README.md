@@ -1,4 +1,4 @@
-##linux-driver-study
+#linux-driver-study
 基于韦东山Linux/Android视频练习
 
 **韦东山视频系列**共有4期，内容丰富，涉及很多内容 
@@ -17,4 +17,3 @@
 - 03-Index 毕业班视频课程列表 
 - 04-Index 项目实战课程列表 
 - 05-Index Android系统驱动课程列表
-
